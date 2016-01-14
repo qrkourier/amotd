@@ -5,10 +5,10 @@ Awareness Message of the Day
 A collection of reminders to act on my values. 
 
 ## How's it work?
-This configures my shell to display a message of awareness when I log in. A random message of awareness is chosen based on the day of the year whenever possible.
+This configures my shell to display a call to mindfulness when I log in. The message is chosen based on the day of the year whenever it matches a configured day of observance.
 
 ## What's it look like?
 ```
-Remember to...: Change the Policy of an Organization You Belong To 
+Today begins Parkinson’s Disease Awareness Month. [click to read]
 localhost $
 ```
